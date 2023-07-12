@@ -1,4 +1,4 @@
-#This script was created by Christian Burke to help simlify the Manual O365 Migration Process. 
+#This script was created by Christian Burke to help simplify the Manual O365 Migration Process. 
 
 #Shows you the current state of AD joined devices 
 dsregcmd /status | find /I "AzureAdJoined"
